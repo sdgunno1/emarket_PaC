@@ -1,0 +1,3 @@
+global:
+  eiparn: eipalloc-04527e5b8a4b6cc2b,eipalloc-09598beaccce3a8ba
+  sslcert: arn:aws:acm:us-east-1:611559622108:certificate/d1cc625d-773d-4413-be99-2872d59003c0
